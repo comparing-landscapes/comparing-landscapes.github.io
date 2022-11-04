@@ -3,10 +3,7 @@ layout: default
 title: program
 ---
 
-## *Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*
-#### Bielefeld, 20-21 April 2023
-
-### Program
+## Conference Program
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
