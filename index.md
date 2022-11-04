@@ -66,7 +66,9 @@ Unsolicited physical contact, unwelcome sexual attention, and bullying behaviour
 
 Conference organizers and participants should be identified by their name badges. Please be aware and respectul of the names and propouns of their choice.
 
-#
+
+### Contacts and info
 
 - Go to the Github repository [here](https://github.com/comparing-landscapes/comparing-landscapes.github.io)
 - If you have questions, write an email to [Dr Giulia Grisot](giulia.grisot@uni-bielefeld.de)
+- Find out more about our research [here](https://mountain-sentiment.github.io)
