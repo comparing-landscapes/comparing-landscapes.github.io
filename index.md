@@ -69,4 +69,4 @@ Conference organizers and participants should be identified by their name badges
 
 #
 
-(Go to the Github repository [here](https://github.com/comparing-landscapes/comparing-landscapes.github.io)
+(Go to the Github repository [here](https://github.com/comparing-landscapes/comparing-landscapes.github.io))
