@@ -3,8 +3,6 @@ layout: default
 title: program
 ---
 
-[home](index.md) | [people](people.md) | [resources](resources.md) | [program](program.md) | [keynotes](keynotes.md) 
-
 ## *Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*
 #### Bielefeld, 20-21 April 2023
 
