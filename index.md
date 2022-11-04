@@ -1,3 +1,7 @@
+---
+image: mountain_vs_city_kirchner.png
+---
+
 ## Call for Papers
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
