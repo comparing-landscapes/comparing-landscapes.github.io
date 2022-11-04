@@ -1,7 +1,3 @@
----
-image: mountain_vs_city_kirchner.png
----
-
 ## Call for Papers
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
@@ -69,7 +65,6 @@ Harassment or intimidation based on race, religion, ethnicity, language, gender 
 Unsolicited physical contact, unwelcome sexual attention, and bullying behaviour are likewise unacceptable.
 
 Conference organizers and participants should be identified by their name badges. Please be aware and respectul of the names and propouns of their choice.
-
 
 #
 
