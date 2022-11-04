@@ -70,5 +70,5 @@ Conference organizers and participants should be identified by their name badges
 ### Contacts and info
 
 - Go to the Github repository [here](https://github.com/comparing-landscapes/comparing-landscapes.github.io)
-- If you have questions, write an email to [Dr Giulia Grisot](giulia.grisot@uni-bielefeld.de)
+- If you have questions, write an email to [Dr Giulia Grisot](mailto:giulia.grisot@uni-bielefeld.de)
 - Find out more about our research [here](https://mountain-sentiment.github.io)
