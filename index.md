@@ -1,11 +1,10 @@
-## Call for Papers
-
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
 
 The Faculty of Linguistics and Literary Studies at Bielefeld University invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023** at the University of Bielefeld, Germany.
 
+## Call for Papers
 
-## Theme 
+### Theme 
 
 This conference brings together scholars from **literary studies and digital humanities** to explore representations of *space* and *affect* in literature and literary history, with a focus on two aspects: the **'national' as reference dimension** and the role of **practices of comparing**.
 
