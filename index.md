@@ -12,7 +12,7 @@ The Faculty of Linguistics and Literary Studies at Bielefeld University invites 
 ## Call for Papers
 
 ### [**Submit your proposal here**](https://forms.gle/3FUn59ime3xMQV5X9)
-
+(download pdf version of the CFP [here](call_for_papers.pdf))
 
 ## Theme 
 
@@ -72,7 +72,7 @@ Open, critically-engaged, and often challenging discourse is expected to flouris
 Harassment or intimidation based on race, religion, ethnicity, language, gender identity or expression, sexual orientation, physical or cognitive ability, age, appearance, or other group status will not be tolerated.
 Unsolicited physical contact, unwelcome sexual attention, and bullying behaviour are likewise unacceptable.
 
-Conference organizers and participants should be identified by their name badges. Please be aware and respectul of the names and propouns of their choice.
+Conference organizers and participants should be identified by their name badges. Please be aware and respectful of the names and pronouns of their choice.
 
 ## Contacts and info
 
