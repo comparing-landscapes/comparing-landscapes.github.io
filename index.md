@@ -19,7 +19,7 @@ This conference brings together scholars from **literary studies and digital hum
 The conference is designed to welcoming a wide range of perspectives: **from literary critique to machine learning, from geospatial to sentiment analysis, from metaphor to historiographic argument.**
 
 We aim at creating an **interdisciplinary event**, where research on the dimensions of space and affect in literary texts are explored with reference to 'national literatures' and practices of comparing at different levels.
-This exchange of ideas shall take place among scholars from different faculties and backgrounds, who share an interest for the ways in which space and affect literary discourse and literary historiography.
+This exchange of ideas shall take place among scholars from different faculties and backgrounds, who share an interest for the ways in which space and affect impact literary discourse and literary historiography.
 
 **We are looking forward to host a range of thrilling presentations at the interface between literary studies and data-driven humanities that will look at comparing space and affect in different national literatures and periods.**
 
@@ -49,7 +49,7 @@ When completing the [submission form](https://forms.gle/3FUn59ime3xMQV5X9), you 
 ### Posters (abstract 500 words) 
 
 Poster proposals may present work on any relevant topic, or offer demonstrations of projects, tools and software in any stage of development. Poster presentations are intended to be interactive with the opportunity to exchange ideas among attendees.
-Posters are in no way considered lesser forms of presentation at this conference, and are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged from researchers of all experiences.
+Posters are in no way considered lesser forms of presentation at this conference, and are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged from researchers of any level of experience.
 
 ### Presentations (20 minutes + 10 Q&A; abstract 750 words)
 Proposals for presentations should deal with substantial or completed research, present rigorous theoretical, speculative, or critical discussions, and/or report the development of significant new methodologies or digital resources. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
