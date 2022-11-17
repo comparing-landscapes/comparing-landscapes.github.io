@@ -7,7 +7,7 @@ title: program
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
-| April 20th | 9:00-9:30 | **Registration & coffee - Conference Opening** |
+| **April 20th** | 9:00-9:30 | **Registration & coffee - Conference Opening** |
 | | 9:45-10:30 | **Morning Lecture: Keynote 1** |
 | | 11:00-13:00 | **Panel 1** <br> |
 | | 13:00-14:00 | **Lunch break** |
@@ -16,9 +16,7 @@ title: program
 | | 16:00-18:00 | **Panel 2** <br> |
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
 | | 19:45 | **Conference Dinner** |
-|:----------|:-----------|:-----------------------------------------|
-
-| April 20th | 8:30-9:00 | **Coffee and open chat** |
+| **April 20th** | 8:30-9:00 | **Coffee and open chat** |
 | | 9:00-11:00 | **Panel 1** <br> |
 | | 11:00-11:30 | **break** |
 | | 11:30-12:30 | **Panel 2** <br> |
