@@ -21,7 +21,7 @@ title: program
 | | 11:00-11:30 | **break** |
 | | 11:30-12:30 | **Panel 2** <br> |
 | | 12:30-14:00 | **Lunch break** <br> |
-| | 14:00-16:00 | **Open discussion** <br> |
+| | 14:00-16:00 | **Panel Discussion on Methodology** <br> |
 | | 16:00-17:00 | **Final Lecture: Keynote 2** <br> |
 | | 17:00-17:30 | **Conclusion and farewell** |
 
