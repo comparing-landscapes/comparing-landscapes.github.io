@@ -1,6 +1,7 @@
 ---
 layout: default
-title: keynotes
+title: Keynotes
+nav_order: 3
 ---
 
 ## Keynote Speakers
