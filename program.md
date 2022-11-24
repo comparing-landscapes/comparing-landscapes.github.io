@@ -12,9 +12,9 @@ nav_order: 2
 | | 9:45-10:45 | **Morning Lecture: Keynote 1** |
 | | 11:00-13:00 | **Panel 1 Universalisation** <br> |
 | | 13:00-14:00 | **Lunch break** |
-| | 14:00-15:30 | **Panel 2 Knowledge** <br> |
+| | 14:00-15:30 | **Poster Session / Panel 2 Knowledge** (tbc) <br> |
 | | 15:30-16:00 | **break** <br> |
-| | 16:00-18:00 | **Poster Session / Panel 3 Materiality** (tbc) <br> |
+| | 16:00-18:00 | **Panel 3 Materiality** <br> |
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
 | | 19:45 | **Conference Dinner** |
 | **April 21st** | 8:30-9:00 | **Coffee and open chat** |
