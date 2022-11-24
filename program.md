@@ -5,9 +5,9 @@ title: program
 
 ## Conference Program
 
-| Day       | Time | What                                     |
+| Day       | Time | What                                     | |
 |:----------|:-----------|:-----------------------------------------|
-| **April 20th** | 9:00-9:30 | **Registration & coffee - Conference Opening** |
+| **April 20th** | 9:00-9:30 | **Registration & coffee - Conference Opening** | |
 | | 9:45-10:45 | **Morning Lecture: Keynote 1** | |
 | | 11:00-13:00 | **Panel 1: Universalisation ** <br> | Respondance |
 | | 13:00-14:00 | **Lunch break** | |
