@@ -1,6 +1,7 @@
 ---
 layout: default
-title: program
+title: Program
+nav_order: 2
 ---
 
 ## Conference Program
