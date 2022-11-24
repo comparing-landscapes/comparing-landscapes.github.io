@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+nav_order: 1
 ---
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
