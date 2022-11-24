@@ -5,7 +5,7 @@ title: home
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
 
-The Faculty of Linguistics and Literary Studies at Bielefeld University invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the University of Bielefeld, Germany**.
+The Faculty of Linguistics and Literary Studies at Bielefeld University, with the patronage of the [Collaborative Research Centre (SFB 1288)](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the University of Bielefeld, Germany**.
 
 ## Call for Papers
 
@@ -27,7 +27,7 @@ This exchange of ideas shall take place among scholars from different faculties 
 ## Important Dates
 
 - Deadline for Submissions: 15 February 2023
-- Notification of Acceptances: 15 March 2023
+- Notification of Acceptance: 15 March 2023
 
 ## Submission Instructions and Review Process
 
@@ -52,10 +52,12 @@ Poster proposals may present work on any relevant topic, or offer demonstrations
 Posters are in no way considered lesser forms of presentation at this conference, and are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged from researchers of any level of experience.
 
 ### Presentations (20 minutes + 10 Q&A; abstract 750 words)
+
 Proposals for presentations should deal with substantial or completed research, present rigorous theoretical, speculative, or critical discussions, and/or report the development of significant new methodologies or digital resources. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
 
 
 ## Submissions will be evaluated based on the following points:
+
 - Is the submission an innovative contribution to literary studies and/or digital humanities?
 - Is the submission adequately presented (including a bibliography)? 
 - Is the submission formulated in a comprehensible manner? 
