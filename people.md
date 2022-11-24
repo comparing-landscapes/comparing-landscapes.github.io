@@ -1,6 +1,7 @@
 ---
 layout: default
-title: people
+title: People
+nav_order: 4
 ---
 
 ## People
