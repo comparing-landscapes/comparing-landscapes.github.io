@@ -6,7 +6,7 @@ nav_order: 1
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
 
-The Faculty of Linguistics and Literary Studies at Bielefeld University, with the patronage of the [Collaborative Research Centre (SFB 1288)](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the University of Bielefeld, Germany**.
+The Faculty of Linguistics and Literary Studies at Bielefeld University, with the patronage of the [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the University of Bielefeld, Germany**.
 
 ## Call for Papers
 

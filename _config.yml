@@ -2,3 +2,7 @@ title: Conference Webpage
 # theme: jekyll-theme-cayman
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 description: April 20-21 2023, Bielefeld University, Germany
+logo: "images/logo_bie_sfb.png"
+aux_links:
+  "SFB 1288 - Practices of Comparing":
+    - "https://www.uni-bielefeld.de/sfb/sfb1288/index.xml?events=2022-11-15"
