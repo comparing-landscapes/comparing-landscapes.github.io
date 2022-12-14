@@ -4,7 +4,7 @@ title: Keynotes
 nav_order: 3
 ---
 
-## Keynote Speakers (tbc)
+## Keynote Speakers
 
 |  |  |  |
 |-------|-------|--------------|
