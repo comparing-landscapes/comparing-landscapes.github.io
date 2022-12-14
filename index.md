@@ -55,7 +55,6 @@ Posters are in no way considered lesser forms of presentation at this conference
 ### Presentations (20 minutes + 10 Q&A; abstract 750 words)
 
 Proposals for presentations should deal with substantial or completed research, present rigorous theoretical, speculative, or critical discussions, and/or report the development of significant new methodologies or digital resources. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
-Acceptance notifications will be circulated by 15 February 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
 
 ## Submissions will be evaluated based on the following points:
 
@@ -63,6 +62,8 @@ Acceptance notifications will be circulated by 15 February 2023. There is no con
 - Is the submission adequately presented (including a bibliography)? 
 - Is the submission formulated in a comprehensible manner? 
 - Does the submission meet all formal criteria (abstract length, formatting etc.)?
+
+**Acceptance notifications** will be circulated by 15 February 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
 
 ## Code of Conduct
 
