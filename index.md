@@ -27,15 +27,15 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 ## Important Dates
 
-- Deadline for Submissions: 15 February 2023
-- Notification of Acceptance: 15 March 2023
+- Deadline for Submissions: 1 February 2023
+- Notification of Acceptance: 15 February 2023
 
 ## Submission Instructions and Review Process
 
 - Your submission should include the abstract of your poster/paper and the relative references.
 - The abstract should contain a maximum of **500 words for posters**, and a maximum of **750 words for papers** (excluding references).
 - Submissions are to be sent **anonymously**, and should be written and presented **in English**.
-- Abstracts **should be sent in .md, .docx or .pdf format** via the following form: 
+- Abstracts **should be sent in .md, .docx or .pdf format** via the submission form below.
 - All submissions will go through a double-blind reviewing process, by at least two reviewers.
 
 When completing the [submission form](https://forms.gle/3FUn59ime3xMQV5X9), you will be asked to provide the following information:
@@ -55,7 +55,7 @@ Posters are in no way considered lesser forms of presentation at this conference
 ### Presentations (20 minutes + 10 Q&A; abstract 750 words)
 
 Proposals for presentations should deal with substantial or completed research, present rigorous theoretical, speculative, or critical discussions, and/or report the development of significant new methodologies or digital resources. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
-
+Acceptance notifications will be circulated by 15 February 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
 
 ## Submissions will be evaluated based on the following points:
 
