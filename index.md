@@ -8,6 +8,8 @@ nav_order: 1
 
 The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) at Bielefeld University in collaboration with the Faculty of Linguistics and Literary Studies at Bielefeld University and the Swiss National Science Foundation invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the [ZiF Bielefeld](https://www.uni-bielefeld.de/(en)/ZiF/), Germany**.
 
+Our keynote speakers will be Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/), [University of Cambridge](https://www.cdh.cam.ac.uk), [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/), [University of Basel](https://www.unibas.ch/en.html), [Mareike Schumacher M.A.](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp), [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), and [Matthew Wilkens Ph.D.](https://infosci.cornell.edu/content/wilkens),[Cornell University](https://www.cornell.edu/)
+
 ## Call for Papers
 
 ### [**Submit your proposal here**](https://forms.gle/3FUn59ime3xMQV5X9)
