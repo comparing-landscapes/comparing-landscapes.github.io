@@ -18,12 +18,12 @@ nav_order: 2
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
 | | 19:45 | **Conference Dinner** |
 | **April 21st** | 8:30-9:00 | **Coffee and open chat** |
-| | 9:00-11:00 | **Morning Lecture: Keynote 2** |
+| | 9:00-11:00 | **Morning Lecture: Keynote 3** |
 | | 11:00-11:30 | **break** |
 | | 11:30-12:30 | **Panel 4: _Historical Change_** <br> |
 | | 12:30-14:00 | **Lunch break** <br> |
 | | 14:00-16:00 | **Discussion Panel: _Comparing, Hermeneutics, and the Data Paradigm_** <br> |
-| | 16:00-17:00 | **Final Lecture: Keynote 3** <br> |
+| | 16:00-17:00 | **Final Lecture: Keynote 4** <br> |
 | | 17:00-17:30 | **Conclusion and farewell** |
 
 
