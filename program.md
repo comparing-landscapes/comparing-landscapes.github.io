@@ -17,8 +17,8 @@ nav_order: 2
 | | 16:00-18:00 | **Panel 3: _Materiality_** <br> |
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
 | | 19:45 | **Conference Dinner** |
-| **April 21st** | 8:30-9:00 | **Coffee and open chat** |
-| | 9:00-11:00 | **Morning Lecture: Keynote 3** |
+| **April 21st** | 9:30-10:00 | **Coffee and open chat** |
+| | 10:00-11:00 | **Morning Lecture: Keynote 3** |
 | | 11:00-11:30 | **break** |
 | | 11:30-12:30 | **Panel 4: _Historical Change_** <br> |
 | | 12:30-14:00 | **Lunch break** <br> |
@@ -31,6 +31,6 @@ nav_order: 2
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
-| **April 22nd** | 8:30-9:00 | tbc |
+| **April 22nd** | 9:30-17:00 | tbc |
 
 
