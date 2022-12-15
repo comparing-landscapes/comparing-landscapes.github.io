@@ -1,11 +1,14 @@
 ---
 layout: default
-title: home
+title: Home
+nav_order: 1
 ---
 
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
 
-The Faculty of Linguistics and Literary Studies at Bielefeld University invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the University of Bielefeld, Germany**.
+The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) at Bielefeld University in collaboration with the Faculty of Linguistics and Literary Studies at Bielefeld University and the Swiss National Science Foundation invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the [ZiF Bielefeld](https://www.uni-bielefeld.de/(en)/ZiF/), Germany**.
+
+Our keynote speakers will be Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/), [University of Cambridge](https://www.cdh.cam.ac.uk), [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/), [University of Basel](https://www.unibas.ch/en.html), [Mareike Schumacher M.A.](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp), [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), and [Matthew Wilkens Ph.D.](https://infosci.cornell.edu/content/wilkens),[Cornell University](https://www.cornell.edu/)
 
 ## Call for Papers
 
@@ -26,15 +29,16 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 ## Important Dates
 
-- Deadline for Submissions: 15 February 2023
-- Notification of Acceptances: 15 March 2023
+- Deadline for Submissions: 1 February 2023
+- Notification of Acceptance: 15 February 2023
+- There is no attendence fee
 
 ## Submission Instructions and Review Process
 
 - Your submission should include the abstract of your poster/paper and the relative references.
 - The abstract should contain a maximum of **500 words for posters**, and a maximum of **750 words for papers** (excluding references).
 - Submissions are to be sent **anonymously**, and should be written and presented **in English**.
-- Abstracts **should be sent in .md, .docx or .pdf format** via the following form: 
+- Abstracts **should be sent in .md, .docx or .pdf format** via the submission form below.
 - All submissions will go through a double-blind reviewing process, by at least two reviewers.
 
 When completing the [submission form](https://forms.gle/3FUn59ime3xMQV5X9), you will be asked to provide the following information:
@@ -52,14 +56,17 @@ Poster proposals may present work on any relevant topic, or offer demonstrations
 Posters are in no way considered lesser forms of presentation at this conference, and are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged from researchers of any level of experience.
 
 ### Presentations (20 minutes + 10 Q&A; abstract 750 words)
+
 Proposals for presentations should deal with substantial or completed research, present rigorous theoretical, speculative, or critical discussions, and/or report the development of significant new methodologies or digital resources. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
 
-
 ## Submissions will be evaluated based on the following points:
+
 - Is the submission an innovative contribution to literary studies and/or digital humanities?
 - Is the submission adequately presented (including a bibliography)? 
 - Is the submission formulated in a comprehensible manner? 
 - Does the submission meet all formal criteria (abstract length, formatting etc.)?
+
+**Acceptance notifications** will be circulated by 15 February 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
 
 ## Code of Conduct
 
@@ -76,4 +83,4 @@ Conference organizers and participants should be identified by their name badges
 
 - Go to the Github repository [here](https://github.com/comparing-landscapes/comparing-landscapes.github.io)
 - If you have questions, write an email to [Dr Giulia Grisot](mailto:giulia.grisot@uni-bielefeld.de)
-- Find out more about our research [here](https://mountain-sentiment.github.io)
+- Find out more about our research in the [SFB1288 project E06](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/e06/) and the [project 'high mountains' funded by the Swiss National Science Foundation ](https://mountain-sentiment.github.io)

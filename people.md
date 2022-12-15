@@ -1,6 +1,7 @@
 ---
 layout: default
-title: people
+title: People
+nav_order: 4
 ---
 
 ## People
@@ -14,3 +15,5 @@ title: people
 ## Partners
 
 - [Universität Bielefeld](https://www.uni-bielefeld.de/(en)/)
+- [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml)
+- [Cambridge Digital Humanities](https://www.cdh.cam.ac.uk)

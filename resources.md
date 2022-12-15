@@ -1,6 +1,7 @@
 ---
 layout: default
-title: resources
+title: Resources
+nav_order: 5
 ---
 
 ## Resources
