@@ -31,7 +31,7 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 - Deadline for Submissions: 1 February 2023
 - Notification of Acceptance: 15 February 2023
-- There is no attendence fee
+- There is no attendance fee
 
 ## Submission Instructions and Review Process
 
@@ -70,14 +70,14 @@ Proposals for presentations should deal with substantial or completed research, 
 
 ## Code of Conduct
 
-We are dedicated to creating a safe, respectful, and collegial conference environment for the benefit of everyone who attends, and for the advancement of research and scholarship in fields supported by our constituent organizations.
+We are dedicated to creating a safe, respectful, and collegial conference environment for the benefit of everyone who attends, and for the advancement of research and scholarship in fields supported by our constituent organisations.
 
 Open, critically-engaged, and often challenging discourse is expected to flourish at this conference. Participants are encouraged to respect and celebrate cultural differences, and to be mindful of the international nature of our community in preparing presentations and engaging in conversation.
 
 Harassment or intimidation based on race, religion, ethnicity, language, gender identity or expression, sexual orientation, physical or cognitive ability, age, appearance, or other group status will not be tolerated.
 Unsolicited physical contact, unwelcome sexual attention, and bullying behaviour are likewise unacceptable.
 
-Conference organizers and participants should be identified by their name badges. Please be aware and respectful of the names and pronouns of their choice.
+Conference organisers and participants should be identified by their name badges. Please be aware and respectful of the names and pronouns of their choice.
 
 ## Contacts and info
 
