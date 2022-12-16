@@ -9,7 +9,7 @@ nav_order: 4
 |  |  |  |
 |-------|-------|--------------|
 | ![](/images/ppl/bh2.jpeg) | [Prof. Dr. Berenike Herrmann](https://jberenike.github.io/) | [Bielefeld University](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/index.xml) |
-| ![](/images/ppl/gg.jpeg) | [Dr. Giulia Grisot](https://giuliagrisot.github.io/) | [Bielefeld University](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/index.xml) |
+| ![](/images/ppl/gg2.jpeg) | [Dr. Giulia Grisot](https://giuliagrisot.github.io/) | [Bielefeld University](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/index.xml) |
 | ![](/images/ppl/ra.jpeg) | [Dr. Robin Aust](https://www.germanistik.hhu.de/abteilungen/abteilung-ii-neuere-deutsche-literaturwissenschaft/univ-prof-dr-henriette-herwig/team/robin-aust-ma) | [Bielefeld University](https://www.uni-bielefeld.de/fakultaeten/linguistik-literaturwissenschaft/index.xml) |
 
 
