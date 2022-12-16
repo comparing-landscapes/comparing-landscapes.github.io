@@ -24,8 +24,7 @@ The conference is designed to welcoming a wide range of perspectives: **from lit
 We aim at creating an **interdisciplinary event**, where research on the dimensions of space and affect in literary texts are explored with reference to 'national literatures' and practices of comparing at different levels.
 This exchange of ideas shall take place among scholars from different faculties and backgrounds, who share an interest for the ways in which space and affect impact literary discourse and literary historiography.
 
-**We are looking forward to host a range of thrilling presentations at the interface between literary studies and data-driven humanities that will look at comparing space and affect in different national literatures and periods.**
-
+**We are looking forward to host a range of thrilling presentations comparing dimensions of space and affect across different national literatures and periods.** We are inviting papers from different research traditions including, but not limited to, hermeneutics, philology, cultural studies, cognitive poetics, empirical literary studies, corpus stylistics, and all types of data-driven and digital humanities.
 
 ## Important Dates
 
