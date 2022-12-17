@@ -12,7 +12,7 @@ nav_order: 2
 | | 9:45-10:45 | **Morning Lecture: Keynote 1** |
 | | 11:00-13:00 | **Panel 1: _Universalisation_** <br> |
 | | 13:00-14:00 | **Lunch break** |
-| | 14:00-15:30 | **Panel 2: _Knowledge_** (tba) <br> |
+| | 14:00-15:30 | **Panel 2: _Knowledge_** <br> |
 | | 15:30-16:00 | **break** <br> |
 | | 16:00-18:00 | **Poster Session / Panel 3: _Materiality_** <br> |
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
