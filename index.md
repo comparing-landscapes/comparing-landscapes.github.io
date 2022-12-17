@@ -10,6 +10,9 @@ The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://
 
 Our keynote speakers will be [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/), University of Cambridge, [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/), University of Basel, [Mareike Schumacher M.A.](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp), TU Darmstadt, and [Matthew Wilkens Ph.D.](https://infosci.cornell.edu/content/wilkens), Cornell University.
 
+The conference will be co-located with a **training school on digital methods for narrative fiction analysis on April 22**. More information on this event will be available shortly. 
+
+
 ## Call for Papers
 
 ### [**Submit your proposal here**](https://forms.gle/3FUn59ime3xMQV5X9)
