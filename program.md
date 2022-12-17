@@ -27,10 +27,10 @@ nav_order: 2
 | | 17:00-17:30 | **Conclusion and farewell** |
 
 
-## Workshop Program
+## Program Training school Digital Methods
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
-| **April 22nd** | 9:30-17:00 | tbc |
+| **April 22nd** | 9:30-17:00 | tba |
 
 
