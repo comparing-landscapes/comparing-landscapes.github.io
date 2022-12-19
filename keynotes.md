@@ -4,9 +4,9 @@ title: Keynotes
 nav_order: 3
 ---
 
-## Keynote Speakers
+# Keynote Speakers
 
-|  |  |  |
+| &nbsp; | &nbsp; |  &nbsp; |
 |-------|-------|--------------|
 | ![](/images/ppl/cb.jpeg) | [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/) | [University of Cambridge](https://www.cdh.cam.ac.uk) |
 | ![](/images/ppl/ah.jpeg) | [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/) | [University of Basel](https://www.unibas.ch/en.html) |
