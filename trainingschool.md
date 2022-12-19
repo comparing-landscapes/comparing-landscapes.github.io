@@ -14,4 +14,4 @@ More information about the Training School will be available soon!
 
 ## Program
 
-Check the program [here](program.md/#program-training-school-digital-methods).
+Check the program [here](program.md/#training-school).
