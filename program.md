@@ -4,7 +4,9 @@ title: Program
 nav_order: 2
 ---
 
-## Conference Program
+# Program
+
+## Conference
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
@@ -27,7 +29,7 @@ nav_order: 2
 | | 17:00-17:30 | **Conclusion and farewell** |
 
 
-## Program Training school Digital Methods
+## Training School
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
