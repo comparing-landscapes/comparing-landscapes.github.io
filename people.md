@@ -4,7 +4,7 @@ title: People
 nav_order: 5
 ---
 
-## People
+# People
 
 |  |  |  |
 |-----|-------|--------------|
