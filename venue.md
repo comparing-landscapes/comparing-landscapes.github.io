@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Venue & Location
-nav_order: 5
+nav_order: 6
 ---
 
 # Venue & Location
