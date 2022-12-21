@@ -6,7 +6,9 @@ nav_order: 4
 
 # Training School
 
-## *Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with CATMA.* - April 22nd, 2023
+## *Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with CATMA.*
+April 22nd, 2023
+
 ### Instructor: Mareike Schumacher, Ph.D.
 
 Annotation is a core cultural and research practice that has been practised non-digitally for a very long time before being transferred to the digital in the context of the Digital Humanities. Text markup and enrichment, free-text annotation, and taxonomy-based annotation are forms of annotation that overlap to some extent. All of these forms are digitally supported by CATMA. CATMA (Gius et al. 2022) is a web-based collaborative text annotation and analysis platform that has been in development since 2008. With the release of CATMA 6 in 2019, a Git-based backend was introduced for the platform. GitMA builds on top of that to facilitate access to and further processing of annotation data.
@@ -20,8 +22,10 @@ Mareike Schumacher coordinates the DFG project forTEXT (https://fortext.net), in
 
 ## Registration
 
-<!--  Please register [here](https://forms.gle/BWNbKk1FRoDEto9H8) if you are interested in taking part to the training school. -->
+Registrations will open shortly.
+
+<!-- Please register [here](https://forms.gle/BWNbKk1FRoDEto9H8) if you are interested in taking part to the training school. -->
 
 ## Program
 
-Check the program [here](program.md/#training-school).
+Check the detailed program of the training school [here](program.md/#training-school).
