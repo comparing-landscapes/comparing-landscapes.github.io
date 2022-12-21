@@ -8,7 +8,7 @@ nav_order: 3
 
 &nbsp; |&nbsp; |&nbsp;
 -------|-------|--------------
-![](/images/ppl/cb.jpeg) | [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/) | [University of Cambridge](https://www.cdh.cam.ac.uk)
-![](/images/ppl/ah.jpeg) | [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/) | [University of Basel](https://www.unibas.ch/en.html)
-![](/images/ppl/ms.jpeg) | [Mareike Schumacher Ph.D.](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp) | [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
-![](/images/ppl/mw.jpeg) | [Matthew Wilkens Ph.D.](https://infosci.cornell.edu/content/wilkens) | [Cornell University](https://www.cornell.edu/)
+<img src="/images/ppl/cb.jpeg" width="200"> | [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/) | [University of Cambridge](https://www.cdh.cam.ac.uk)
+<img src="/images/ppl/ah.jpeg" width="200">  | [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/) | [University of Basel](https://www.unibas.ch/en.html)
+<img src="/images/ppl/ms.jpeg" width="200">  | [Mareike Schumacher Ph.D.](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp) | [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp)
+<img src="/images/ppl/mw.jpeg" width="200">  | [Matthew Wilkens Ph.D.](https://infosci.cornell.edu/content/wilkens) | [Cornell University](https://www.cornell.edu/)
