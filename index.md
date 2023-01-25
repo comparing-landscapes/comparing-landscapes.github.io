@@ -30,8 +30,8 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 ## Important Dates
 
-- Deadline for Submissions: 1 February 2023
-- Notification of Acceptance: 15 February 2023
+- Deadline for Submissions: 19th February 2023
+- Notification of Acceptance: 1st of March 2023
 - There is no attendance fee
 
 ## Submission Instructions and Review Process
@@ -67,7 +67,7 @@ Proposals for presentations should deal with substantial or completed research, 
 - Is the submission formulated in a comprehensible manner? 
 - Does the submission meet all formal criteria (abstract length, formatting etc.)?
 
-**Acceptance notifications** will be circulated by 15 February 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
+**Acceptance notifications** will be circulated by the 1st of March 2023. There is no conference fee. Refreshments and conference dinner will be offered free of charge.
 
 ## Code of Conduct
 
