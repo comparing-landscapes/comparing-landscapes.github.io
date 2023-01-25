@@ -30,8 +30,8 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 ## Important Dates
 
-- Deadline for Submissions: 19th February 2023
-- Notification of Acceptance: 1st of March 2023
+- Deadline for Submissions: 19 February 2023
+- Notification of Acceptance: 1 of March 2023
 - There is no attendance fee
 
 ## Submission Instructions and Review Process
