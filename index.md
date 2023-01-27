@@ -38,7 +38,7 @@ This exchange of ideas shall take place among scholars from different faculties 
 
 - Your submission should include the abstract of your poster/paper and the relative references.
 - The abstract should contain a maximum of **500 words for posters**, and a maximum of **750 words for papers** (excluding references).
-- Submissions are to be sent **anonymously**, and should be written and presented **in English**.
+- Submissions are to be sent **anonymously**, and should be written and presented **in English or German**.
 - Abstracts **should be sent in .md, .docx or .pdf format** via the submission form below.
 - All submissions will go through a double-blind reviewing process, by at least two reviewers.
 
