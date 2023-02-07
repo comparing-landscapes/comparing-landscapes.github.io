@@ -4,6 +4,91 @@ title: Home
 nav_order: 1
 ---
 
+#GERMAN VERSION:
+
+# Comparing Landscapes: Zugriffe auf Raum und Affekt in der Literatur
+
+Der [Sonderforschungsbereich 1288 "Praktiken des Vergleichens"](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) (Universität Bielefeld) lädt in Zusammenarbeit mit der Fakultät für Linguistik und Literaturwissenschaft (Universität Bielefeld) und dem Schweizerischen Nationalfonds ein, Beitragsvorschläge für die interdisziplinäre Konferenz "Comparing Landscapes: Approaches to Space and Affect in Literary Fiction" einzureichen. Die Tagung wird am 20. und 21. April 2023 im [ZiF Bielefeld](https://www.uni-bielefeld.de/(en)/ZiF/) stattfinden.
+
+Wir freuen uns sehr, [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/) (University of Cambridge), [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/) (Universität Basel), [Dr. Mareike Schumacher](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp) (TU Darmstadt) und [Dr. Matthew Wilkens](https://infosci.cornell.edu/content/wilkens) (Cornell University) bereits als Keynote speaker:innen begrüßen zu dürfen!
+
+Im Anschluss an die Konferenz findet am 22. April zudem eine Training School zum Thema "Digitale Werkzeuge zur Identifizierung von textuellen Praktiken des Vergleichens. Eine Einführung in die Annotation und Operationalisierung mit CATMA" statt.
+
+
+
+Die Konferenz bringt Wissenschaftler aus der Literaturwissenschaft und den digitalen Geisteswissenschaften zusammen, um Darstellungen von Raum und Affekt in der Literatur und der Literaturgeschichte zu untersuchen. Hierbei stehen zwei Aspekte im Mittelpunkt: das 'Nationale' als Referenzdimension und die Rolle von Praktiken des Vergleichens.
+
+## Thema 
+
+Diese Konferenz bringt Wissenschaftler aus den **Literaturwissenschaften und den digitalen Geisteswissenschaften** zusammen, um Darstellungen von *Raum* und *Affekt* in der Literatur und der Literaturgeschichte zu untersuchen, wobei zwei Aspekte im Mittelpunkt stehen: das **'nationale' als Referenzdimension** und die Rolle von **Praktiken des Vergleichens**.
+
+Die Konferenz ist so konzipiert, dass sie eine breite Palette von Perspektiven willkommen heißt: **Von der Literaturkritik bis zum maschinellen Lernen, von der Geospatial- bis zur Sentimentanalyse, von der Metapherntheorie bis zur Historiographie**.
+
+Unser Ziel ist es, eine **interdisziplinäre Veranstaltung** zu schaffen, bei der Forschungen zu den Dimensionen von Raum und Affekt in literarischen Texten mit Bezug auf "Nationalliteraturen" und Praktiken des Vergleichens auf verschiedenen Ebenen untersucht werden.
+Dieser Gedankenaustausch soll unter Wissenschaftlern verschiedener Fakultäten und Hintergründe stattfinden, die ein gemeinsames Interesse an der Art und Weise haben, wie Raum und Affekt den literarischen Diskurs und die Literaturgeschichtsschreibung beeinflussen.
+
+**Wir freuen uns auf eine Reihe spannender Präsentationen, in denen Dimensionen von Raum und Affekt in verschiedenen nationalen Literaturen und Epochen verglichen werden.** Wir laden Beiträger:innen aus verschiedenen Forschungstraditionen und Fachbereichen ein, einschließlich, aber keineswegs beschränkt auf Hermeneutik, Philologie, Kulturwissenschaften, kognitive Poetik, empirische Literaturwissenschaft, Korpusstilistik und alle Arten von datengesteuerten und digitalen Geisteswissenschaften.
+
+*# Wichtige Termine
+
+- Deadline für Einreichungen: 19. Februar 2023
+- Benachrichtigung über die Annahme: 1. März 2023
+- Es wird keine Teilnahmegebühr erhoben.
+
+## Einreichungshinweise und Begutachtungsverfahren
+
+- Ihre Einreichung sollte die Zusammenfassung Ihres Posters/Vortrags und die entsprechenden Referenzen enthalten.
+- Die Zusammenfassung sollte maximal **500 Wörter für Poster** und maximal **750 Wörter für Vorträge** (ohne Quellenangaben) enthalten.
+- Die Einreichungen sind **anonym** einzureichen und sollten **in Englisch oder Deutsch** verfasst und präsentiert werden.
+- Abstracts **sollen im .md, .docx oder .pdf Format** über das untenstehende Formular eingereicht werden.
+- Alle Einreichungen werden im Doppelblindverfahren von mindestens zwei Gutachtern geprüft.
+
+Beim Ausfüllen des [Einreichungsformulars](https://forms.gle/3FUn59ime3xMQV5X9) werden Sie gebeten, folgende Angaben zu machen:
+
+- Art der Einreichung
+- Titel und Vorschlag der Einreichung (Zusammenfassung + Referenzen)
+- Kontaktinformationen und ggf. weitere Autor:innen/Vortragende
+- Besondere Anforderungen und/oder technische Unterstützung
+
+## Einreichungsarten
+
+### Poster (Zusammenfassung 500 Wörter) 
+
+In den Vorschlägen für Poster können Arbeiten zu allen relevanten Themen vorgestellt oder Projekte, Werkzeuge und Software in jedem Entwicklungsstadium demonstriert werden. Posterpräsentationen sollen interaktiv sein und den Teilnehmern die Möglichkeit zum Gedankenaustausch bieten.
+Poster werden auf dieser Konferenz keineswegs als minderwertige Präsentationsform angesehen und unterliegen der gleichen strengen Begutachtung durch Fachkollegen wie andere Präsentationsarten, und Forscher:innen aller Erfahrungsstufen sind nachdrücklich ermutigt, eine Einreichung in dieser Kategorie vorzuschlagen.
+
+### Vorträge (20 Minuten + 10 Fragen und Antworten; Zusammenfassung 750 Wörter)
+
+Die Vorschläge für Präsentationen sollten sich mit tiefgreifenden oder abgeschlossenen Forschungsarbeiten befassen, strenge theoretische, spekulative oder kritische Diskussionen präsentieren und/oder über die Entwicklung bedeutender neuer Methoden oder digitaler Ressourcen berichten. Für die einzelnen Beiträge sind 20 Minuten für die Präsentation und 10 Minuten für Fragen vorgesehen.
+
+## Die Beiträge werden anhand der folgenden Aspekte bewertet:
+
+- Ist der Beitrag ein innovativer Beitrag zur Literaturwissenschaft und/oder zu den digitalen Geisteswissenschaften?
+- Ist der Beitrag adäquat präsentiert (einschließlich einer Bibliographie)? 
+- Ist der Beitrag nachvollziehbar formuliert? 
+- Erfüllt der Beitrag alle formalen Kriterien (Länge des Abstracts, Formatierung etc.)?
+
+**Annahmebestätigungen** werden bis zum 1. März 2023 verschickt. Es wird keine Konferenzgebühr erhoben. Erfrischungen und Konferenzdinner werden kostenlos angeboten.
+
+## Verhaltenskodex
+
+Wir sind bestrebt, ein sicheres, respektvolles und kollegiales Konferenzumfeld zu schaffen, das allen Teilnehmer:innen zugute kommt und der Förderung von Forschung und Wissenschaft in den von unseren Mitgliedsorganisationen unterstützten Bereichen dient.
+
+Es wird erwartet, dass auf dieser Konferenz ein offener, kritischer und oft herausfordernder Diskurs geführt wird. Die Teilnehmer:innen werden gebeten, kulturelle Unterschiede zu respektieren und zu würdigen sowie bei der Vorbereitung von Präsentationen und der Teilnahme an Gesprächen die Internationalität unserer Community zu berücksichtigen.
+
+Belästigungen oder Einschüchterungen aufgrund von Rasse, Religion, ethnischer Zugehörigkeit, Sprache, Geschlechtsidentität oder -ausdruck, sexueller Orientierung, körperlicher oder kognitiver Fähigkeiten, Alter, Aussehen oder eines anderen Gruppenstatus werden nicht toleriert.
+Unerwünschter Körperkontakt, unerwünschte sexuelle Aufmerksamkeit und Mobbing sind ebenfalls inakzeptabel.
+
+Die Organisatoren und Teilnehmer der Konferenz können an ihren Namensschildern erkannt werden. Bitte achten Sie auf die von ihnen gewählten Namen und Pronomen und respektieren Sie diese.
+
+## Kontakte und Informationen
+
+- Besuchen Sie das Github-Repository [hier] (https://github.com/comparing-landscapes/comparing-landscapes.github.io)
+- Wenn Sie Fragen haben, schreiben Sie eine E-Mail an [Dr. Giulia Grisot](mailto:giulia.grisot@uni-bielefeld.de)
+- Erfahren Sie mehr über unsere Forschung im Rahmen des [SFB1288-Projekts E06](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/e06/) und des [vom Schweizerischen Nationalfonds geförderten Projekts 'Hochgebirge'](https://mountain-sentiment.github.io)
+
+#ENGLISH VERSION:
+
 # Comparing Landscapes: Approaches to Space and Affect in Literary Fiction
 
 The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://www.uni-bielefeld.de/sfb/sfb1288/index.xml) at Bielefeld University in collaboration with the Faculty of Linguistics and Literary Studies at Bielefeld University and the Swiss National Science Foundation invites submission of proposals for an exciting interdisciplinary conference, '*Comparing Landscapes: Approaches to Space and Affect in Literary Fiction*', which will take place in **April 20-21, 2023 at the [ZiF Bielefeld](https://www.uni-bielefeld.de/(en)/ZiF/), Germany**.
