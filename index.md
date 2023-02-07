@@ -37,7 +37,7 @@ Dieser Gedankenaustausch soll unter Wissenschaftlern verschiedener Fakultäten u
 
 ## Einreichungshinweise und Begutachtungsverfahren
 
-- Ihre Einreichung sollte die Zusammenfassung Ihres Posters/Vortrags und die entsprechenden Referenzen enthalten.
+- Ihre Einreichung sollte die Zusammenfassung Ihres Posters/Vortrags und die entsprechenden Quellenangaben enthalten.
 - Die Zusammenfassung sollte maximal **500 Wörter für Poster** und maximal **750 Wörter für Vorträge** (ohne Quellenangaben) enthalten.
 - Die Einreichungen sind **anonym** einzureichen und sollten **in Englisch oder Deutsch** verfasst und präsentiert werden.
 - Abstracts **sollen im .md, .docx oder .pdf Format** über das untenstehende Formular eingereicht werden.
