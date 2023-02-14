@@ -102,18 +102,14 @@ Wir freuen uns sehr, [Prof. Caroline Bassett](https://www.english.cam.ac.uk/peop
 
 Im Anschluss an die Konferenz findet am 22. April zudem eine Training School zum Thema "Digitale Werkzeuge zur Identifizierung von textuellen Praktiken des Vergleichens. Eine Einführung in die Annotation und Operationalisierung mit CATMA" statt.
 
-
-
-Die Konferenz bringt Wissenschaftler aus der Literaturwissenschaft und den digitalen Geisteswissenschaften zusammen, um Darstellungen von Raum und Affekt in der Literatur und der Literaturgeschichte zu untersuchen. Hierbei stehen zwei Aspekte im Mittelpunkt: das 'Nationale' als Referenzdimension und die Rolle von Praktiken des Vergleichens.
-
 ## Thema 
 
-Diese Konferenz bringt Wissenschaftler aus den **Literaturwissenschaften und den digitalen Geisteswissenschaften** zusammen, um Darstellungen von *Raum* und *Affekt* in der Literatur und der Literaturgeschichte zu untersuchen, wobei zwei Aspekte im Mittelpunkt stehen: das **'nationale' als Referenzdimension** und die Rolle von **Praktiken des Vergleichens**.
+Diese Konferenz bringt Wissenschaftler:innen aus den **Literaturwissenschaften und den digitalen Geisteswissenschaften** zusammen, um Darstellungen von *Raum* und *Affekt* in der Literatur und der Literaturgeschichte zu untersuchen, wobei zwei Aspekte im Mittelpunkt stehen: das **'nationale' als Referenzdimension** und die Rolle von **Praktiken des Vergleichens**.
 
 Die Konferenz ist so konzipiert, dass sie eine breite Palette von Perspektiven willkommen heißt: **Von der Literaturkritik bis zum maschinellen Lernen, von der Geospatial- bis zur Sentimentanalyse, von der Metapherntheorie bis zur Historiographie**.
 
 Unser Ziel ist es, eine **interdisziplinäre Veranstaltung** zu schaffen, bei der Forschungen zu den Dimensionen von Raum und Affekt in literarischen Texten mit Bezug auf "Nationalliteraturen" und Praktiken des Vergleichens auf verschiedenen Ebenen untersucht werden.
-Dieser Gedankenaustausch soll unter Wissenschaftlern verschiedener Fakultäten und Hintergründe stattfinden, die ein gemeinsames Interesse an der Art und Weise haben, wie Raum und Affekt den literarischen Diskurs und die Literaturgeschichtsschreibung beeinflussen.
+Dieser Gedankenaustausch soll unter Wissenschaftler:innen verschiedener Fakultäten und Hintergründe stattfinden, die ein gemeinsames Interesse an der Art und Weise haben, wie Raum und Affekt den literarischen Diskurs und die Literaturgeschichtsschreibung beeinflussen.
 
 **Wir freuen uns auf eine Reihe spannender Präsentationen, in denen Dimensionen von Raum und Affekt in verschiedenen nationalen Literaturen und Epochen verglichen werden.** Wir laden Beiträger:innen aus verschiedenen Forschungstraditionen und Fachbereichen ein, einschließlich, aber keineswegs beschränkt auf Hermeneutik, Philologie, Kulturwissenschaften, kognitive Poetik, empirische Literaturwissenschaft, Korpusstilistik und alle Arten von datengesteuerten und digitalen Geisteswissenschaften.
 
@@ -143,7 +139,7 @@ Beim Ausfüllen des [Einreichungsformulars](https://forms.gle/3FUn59ime3xMQV5X9)
 ### Poster (Zusammenfassung 500 Wörter) 
 
 In den Vorschlägen für Poster können Arbeiten zu allen relevanten Themen vorgestellt oder Projekte, Werkzeuge und Software in jedem Entwicklungsstadium demonstriert werden. Posterpräsentationen sollen interaktiv sein und den Teilnehmern die Möglichkeit zum Gedankenaustausch bieten.
-Poster werden auf dieser Konferenz keineswegs als minderwertige Präsentationsform angesehen und unterliegen der gleichen strengen Begutachtung durch Fachkollegen wie andere Präsentationsarten, und Forscher:innen aller Erfahrungsstufen sind nachdrücklich ermutigt, eine Einreichung in dieser Kategorie vorzuschlagen.
+Poster werden auf dieser Konferenz keineswegs als minderwertige Präsentationsform angesehen und unterliegen der gleichen strengen Begutachtung durch Fachkolleg:innen wie andere Präsentationsarten, und Forscher:innen aller Erfahrungsstufen sind nachdrücklich ermutigt, eine Einreichung in dieser Kategorie vorzuschlagen.
 
 ### Vorträge (20 Minuten + 10 Fragen und Antworten; Zusammenfassung 750 Wörter)
 
@@ -151,7 +147,7 @@ Die Vorschläge für Präsentationen sollten sich mit tiefgreifenden oder abgesc
 
 ## Die Beiträge werden anhand der folgenden Aspekte bewertet:
 
-- Ist der Beitrag ein innovativer Beitrag zur Literaturwissenschaft und/oder zu den digitalen Geisteswissenschaften?
+- Ist der Vorschlag ein innovativer Beitrag zur Literaturwissenschaft und/oder zu den digitalen Geisteswissenschaften?
 - Ist der Beitrag adäquat präsentiert (einschließlich einer Bibliographie)? 
 - Ist der Beitrag nachvollziehbar formuliert? 
 - Erfüllt der Beitrag alle formalen Kriterien (Länge des Abstracts, Formatierung etc.)?
@@ -167,7 +163,7 @@ Es wird erwartet, dass auf dieser Konferenz ein offener, kritischer und oft hera
 Belästigungen oder Einschüchterungen aufgrund von Rasse, Religion, ethnischer Zugehörigkeit, Sprache, Geschlechtsidentität oder -ausdruck, sexueller Orientierung, körperlicher oder kognitiver Fähigkeiten, Alter, Aussehen oder eines anderen Gruppenstatus werden nicht toleriert.
 Unerwünschter Körperkontakt, unerwünschte sexuelle Aufmerksamkeit und Mobbing sind ebenfalls inakzeptabel.
 
-Die Organisatoren und Teilnehmer der Konferenz können an ihren Namensschildern erkannt werden. Bitte achten Sie auf die von ihnen gewählten Namen und Pronomen und respektieren Sie diese.
+Die Organisator:innen und Teilnehmer:innen der Konferenz können an ihren Namensschildern erkannt werden. Bitte achten Sie auf die von ihnen gewählten Namen und Pronomen und respektieren Sie diese.
 
 ## Kontakte und Informationen
 
