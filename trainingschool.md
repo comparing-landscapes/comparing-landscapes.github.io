@@ -30,7 +30,8 @@ Check her recent publications [here](https://mareikeschumacher.de/?p=1117).
 
 ## Registration
 
-Registrations will open shortly.
+(Registrations)[https://forms.gle/9ACRhXbWAvT11dHu7] are open!
+(Click here)[https://forms.gle/9ACRhXbWAvT11dHu7] to secure your place.
 
 <!-- Please register [here](https://forms.gle/BWNbKk1FRoDEto9H8) if you are interested in taking part to the training school. -->
 
