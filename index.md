@@ -14,6 +14,7 @@ The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://
 Our keynote speakers will be [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/), University of Cambridge, [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/), University of Basel, [Dr. Mareike Schumacher](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp), TU Darmstadt, and [Dr. Matthew Wilkens](https://infosci.cornell.edu/content/wilkens), Cornell University.
 
 The conference will be co-located with the **Training School** [*Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with CATMA*](trainingschool.md) on April 22.
+(Please note that participation to the Training School does not depend on your attendance to the the conference, you can attend just one event, or both)
 
 ## Call for Papers
 
