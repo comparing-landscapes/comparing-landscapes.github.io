@@ -32,6 +32,7 @@ Check her recent publications [here](https://mareikeschumacher.de/?p=1117).
 
 [Registrations](https://forms.gle/9ACRhXbWAvT11dHu7) are open!
 [Click here](https://forms.gle/9ACRhXbWAvT11dHu7) to secure your place.
+(Please note that participation to the Training School does not depend on your attendance to the the conference, you can attend just one event, or both)
 
 <!-- Please register [here](https://forms.gle/BWNbKk1FRoDEto9H8) if you are interested in taking part to the training school. -->
 
