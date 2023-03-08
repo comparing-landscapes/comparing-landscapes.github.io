@@ -15,7 +15,8 @@ April 22nd, 2023
 
 ### Instructor: Mareike Schumacher, Ph.D.
 
-
+<br>
+<br>
 Organised by  
 
 <img align="left" width="300" height="185" src="images/Logo_SFB_1288.png">  <br><br><br><br><br><br><br><br><br>
