@@ -17,9 +17,9 @@ April 22nd, 2023
 
 <br>
 <br>
-
-
-Organised by  <br>
+Organised by
+<br>
+<br>
 <img align="left" width="324" height="200" src="images/Logo_SFB_1288.png">  
 <img align="left" width="136" height="66" src="images/Bilinked_dataLit.png"> <br> <br> <br>
 <img align="left" width="136" height="66" src="images/Bilinked_pubHum.png"> <br> <br> <br>
