@@ -18,7 +18,7 @@ April 22nd, 2023
 
 Organised by  
 
-<img align="left" width="300" height="185" src="images/Logo_SFB_1288.png">  <br><br><br><br><br><br>
+<img align="left" width="300" height="185" src="images/Logo_SFB_1288.png">  <br><br><br><br><br><br><br><br><br>
 <img align="left" width="100" height="58" src="images/Bilinked_dataLit.png"> <img align="left" width="100" height="58" src="images/Bilinked_pubHum.png"> <img align="left" width="100" height="58" src="images/BICDAS.png">  <br><br><br>
 
 
