@@ -17,11 +17,12 @@ April 22nd, 2023
 
 <br>
 <br>
-Organised by  
-<br>
 
-<img align="left" width="300" height="185" src="images/Logo_SFB_1288.png">  <br><br><br><br><br><br><br><br><br>
-<img align="left" width="100" height="58" src="images/Bilinked_dataLit.png"> <img align="left" width="100" height="58" src="images/Bilinked_pubHum.png"> <img align="left" width="100" height="58" src="images/BICDAS.png">  <br><br><br>
+Organised by  <br>
+<img align="left" width="324" height="200" src="images/Logo_SFB_1288.png">  
+<img align="left" width="114" height="66" src="images/Bilinked_dataLit.png"> <br> <br> <br>
+<img align="left" width="114" height="66" src="images/Bilinked_pubHum.png"> <br> <br> <br>
+<img align="left" width="114" height="66" src="images/BICDAS.png"> <br> <br> <br>
 
 
 ### Info:
