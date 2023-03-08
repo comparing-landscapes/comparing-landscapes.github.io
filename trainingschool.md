@@ -15,6 +15,13 @@ April 22nd, 2023
 
 ### Instructor: Mareike Schumacher, Ph.D.
 
+
+Organised by  
+
+<img align="left" width="300" height="185" src="images/Logo_SFB_1288.png">  <br><br><br><br><br><br>
+<img align="left" width="100" height="58" src="images/Bilinked_dataLit.png"> <img align="left" width="100" height="58" src="images/Bilinked_pubHum.png"> <img align="left" width="100" height="58" src="images/BICDAS.png">  <br><br><br>
+
+
 ### Info:
 
 Annotation is a core cultural and research practice that has been practised non-digitally for a very long time before being transferred to the digital in the context of the Digital Humanities. Text markup and enrichment, free-text annotation, and taxonomy-based annotation are forms of annotation that overlap to some extent. All of these forms are digitally supported by [**CATMA**](https://catma.de). CATMA (Gius et al. 2022) is a **web-based collaborative text annotation and analysis platform** that has been in development since 2008. With the release of CATMA 6 in 2019, a Git-based backend was introduced for the platform. GitMA builds on top of that to facilitate access to and further processing of annotation data.
