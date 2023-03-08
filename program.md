@@ -33,6 +33,17 @@ nav_order: 2
 
 | Day       | Time | What                                     |
 |:----------|:-----------|:-----------------------------------------|
-| **April 22nd** | 9:30-17:00 | tba |
+| **April 22nd** | | |
+| | 9:30-10:00 | Welcome |
+| | 10:00-10:45 | **Introduction** to CATMA (Logging in to CATMA, Project-Modul, Tagset, Examples) |
+| | 10:45-11:00 | **Annotations** with CATMA | 
+| | 11:00-11:30 | **Analysis** + Q&A |
+| | 11:30-11:45 | **Break** |
+| | 11:45-12:45 | **Hackaton** - Let’s annotate together |
+| | 12:45-13:45 | **Lunch** break |
+| | 13:45-14:45 | **Hackathon** part 2 - Group work | break |
+| | 14:45-15:55 | **GitMA** |
+| | 15.55-16.00 | **Questions, closing remarks** | 
+
 
 
