@@ -41,7 +41,7 @@ nav_order: 2
 | | 11:30-11:45 | **Break** |
 | | 11:45-12:45 | **Hackaton** - Let’s annotate together |
 | | 12:45-13:45 | **Lunch** break |
-| | 13:45-14:45 | **Hackathon** part 2 - Group work | break |
+| | 13:45-14:45 | **Hackathon** part 2 - Group work | 
 | | 14:45-15:55 | **GitMA** |
 | | 15.55-16.00 | **Questions, closing remarks** | 
 
