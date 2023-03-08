@@ -18,10 +18,7 @@ April 22nd, 2023
 Organised by  
 
 <img align="left" width="200" height="124" src="images/Logo_SFB_1288.png">  
-
-
 <img align="left" width="67" height="35" src="images/Bilinked_dataLit.png"> <img align="left" width="67" height="35" src="images/Bilinked_pubHum.png"> <img align="left" width="67" height="35" src="images/BICDAS.png">  
-
 
 ### Info:
 
