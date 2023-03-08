@@ -20,7 +20,10 @@ April 22nd, 2023
 Organised by
 <br>
 <br>
-<img align="left" width="400" src="images/logos_.png">  
+<img align="left" width="600" src="images/logos_.png">  
+<br>
+<br>
+<br>
 <br>
 
 ### Info:
