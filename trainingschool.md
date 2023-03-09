@@ -4,10 +4,15 @@ title: Training School
 nav_order: 4
 ---
 
-<img align="right" width="175" height="90" src="images/catma.png">
+
+Supported by: 
+
+<img align="center" width="500" height="100" src="images/logos_2.png">
+
 
 # Training School
 
+<img align="right" width="175" height="90" src="images/catma.png">
 
 ## *Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with [CATMA](https://catma.de).*
 April 22nd, 2023
@@ -15,24 +20,6 @@ April 22nd, 2023
 
 ### Instructor: Mareike Schumacher, Ph.D.
 
-<br>
-<br>
-Organised by
-<br>
-<br>
-<img align="left" width="600" src="images/logos_.png">  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Info:
 
