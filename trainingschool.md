@@ -20,6 +20,7 @@ April 22nd, 2023
 
 ### Instructor: Mareike Schumacher, Ph.D.
 
+This training school is organised by SFB1288 and supported by the BiLinked communities of practice Data Literacy and Public Humanities, as well as the Bielefeld Center for Data Science (BiCDaS).
 
 ### Info:
 
