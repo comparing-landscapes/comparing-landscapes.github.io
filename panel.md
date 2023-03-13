@@ -1,8 +1,8 @@
 
 ---
 layout: default
-title: Panel Discussion
-nav_order: 4
+title: Panel
+nav_order: 7
 ---
 
 # Panel Discussion
