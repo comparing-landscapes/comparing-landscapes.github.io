@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-Supported by: 
+This training school is organised by SFB1288 and supported by the BiLinked communities of practice Data Literacy and Public Humanities, as well as the Bielefeld Center for Data Science (BiCDaS). 
 
 <img align="center" width="500" height="100" src="images/logos_2.png">
 
@@ -19,8 +19,6 @@ April 22nd, 2023
 
 
 ### Instructor: Mareike Schumacher, Ph.D.
-
-This training school is organised by SFB1288 and supported by the BiLinked communities of practice Data Literacy and Public Humanities, as well as the Bielefeld Center for Data Science (BiCDaS).
 
 ### Info:
 
