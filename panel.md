@@ -6,6 +6,8 @@ nav_order: 7
 
 # Panel Discussion
 
+At the panel discussion, four experts from different disciplines will discuss forms and functions of comparing. Based on observations at the conference, special interest will be on the methods used for analysis and on the materiality of comparing. Bringing these observations together, Elisa Ronzheimer (German literary studies), Britta Hochkirchen (Art History), Kirsten Kramer (Romance and Comparative Literary Studies), and Silke Schwandt (Digital History) will address the ‘analoge’ und ‘digital’ approaches juxtaposed at our conference. Are there tensions? Complementarity? How can we sense for joint research on practices of comparing?
+
 |  |  |  |
 |-----|-------|--------------|
 | <img src="/images/ppl/silkeSchwandt.jpg" width="350"> | [Prof. Dr. Silke Schwandt](https://digital-history.uni-bielefeld.de/silke-schwandt/) | [Universität Bielefeld](https://uni-bielefeld.de), u.a. Projektleiterin SFB1288/[TP D02: Vergleichende Verfahren – Präzedenzrecht im spätmittelalterlichen England](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/d02/) & [TP INF: Dateninfrastruktur und Digital Humanities: Digitale Praktiken in den Geisteswissenschaften](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/inf/). |
