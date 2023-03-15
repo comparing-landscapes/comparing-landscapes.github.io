@@ -16,13 +16,14 @@ nav_order: 2
 | | 13:00-14:00 | **Lunch break** |
 | | 14:00-15:30 | **Panel 2: Posters Chair: NN** <br> |
 | | 15:30-16:00 | **break** <br> |
-| | 16:00-18:00 | **Panel 3: Chair: NN** <br> |
+| | 16:00-17:30 | **Panel 3: Chair: NN** <br> |
+| | 17:30-18:00 | **break** <br> |
 | | 18:00-19:00 | **Evening Lecture: Keynote 2** <br> |
 | | 19:45 | **Conference Dinner** |
 | **April 21st** | 9:30-10:00 | **Coffee and open chat** |
 | | 10:00-11:00 | **Morning Lecture: Keynote 3** |
-| | 11:00-11:30 | **break** |
-| | 11:30-12:30 | **Panel 4: Chair: NN** <br> |
+| | 11:00-11:15 | **break** |
+| | 11:15-13:00 | **Panel 4: Chair: NN** <br> |
 | | 12:30-14:00 | **Lunch break** <br> |
 | | 14:00-16:00 | **Discussion Panel: _Comparing, Hermeneutics, and the Data Paradigm_** <br> |
 | | 16:00-17:00 | **Final Lecture: Keynote 4** <br> |
