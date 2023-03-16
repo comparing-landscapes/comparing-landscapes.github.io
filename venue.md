@@ -17,8 +17,8 @@ The landmark of the city is the Sparrenberg Castle, a restored fortress from the
 
 ## Accomodation
 
-Accommodation is **not** included in the registration fee and is not part of the conference service.
-As you will be attending to an event organised by the University of Bielefeld, you will be eligible for a discounted stay at the [Garni Hotel](www.comfort-garni.de).
+Accommodation is **not** part of the conference service.
+As you will be attending to an event organised by the University of Bielefeld, you will be eligible for a discounted stay at several hotels such as the [Garni Hotel](www.comfort-garni.de).
 Otheriwse, you will most certainly be able to find an affordable and pleasant solution on popular platforms such as Airbnb or booking.com.
 
 ## Transport
