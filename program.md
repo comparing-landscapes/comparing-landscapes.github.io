@@ -8,9 +8,9 @@ nav_order: 2
 
 ## Conference
 
-| Day       | Time | What                                     |
-| April 20th | 09:00       | Registration & coffee - Conference Opening                                                                                                                                                                                  |
+| Day        | Time        | What                                                                                                                                                                                                                        |
 | ---------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| April 20th | 09:00       | Registration & coffee - Conference Opening                                                                                                                                                                                  |
 |            | 09:45       | Morning Lecture: Mareike Schumacher \- "Affective space? Narrative space as a multidimensional reference system"                                                                                                            |
 |            | 10:45       | coffee                                                                                                                                                                                                                      |
 |            | 11:00       | Panel 1: Fictional Landscapes and Historical Perspectives - Chair: Prof. Dr. Maximilian Benz                                                                                                                                |
@@ -41,7 +41,7 @@ nav_order: 2
 |            | 11:30-12:00 | Katrin Rohrbacher, McGill University: "Lived Space": A Computational Study of Setting in Fiction                                                                                                                            |
 |            | 12:00       | Lunch break                                                                                                                                                                                                                 |
 |            | 13:00       | Discussion Panel: Comparing, Hermeneutics, and the Data Paradigm                                                                                                                                                            |
-|            | 15:00-16:00 | Conclusion and farewell    
+|            | 15:00-16:00 | Conclusion and farewell                                                                                                            
 
 
 | Day       | Time | What                                     |
