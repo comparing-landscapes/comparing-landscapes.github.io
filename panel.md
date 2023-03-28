@@ -4,9 +4,9 @@ title: Panel
 nav_order: 7
 ---
 
-# Panel Discussion
+# Panel Discussion: Comparing, Hermeneutics, and the Data Paradigm
 
-At the panel discussion, four experts from different disciplines will discuss forms and functions of comparing. Based on observations at the conference, special interest will be on the methods used for analysis and on the materiality of comparing. Bringing these observations together, Elisa Ronzheimer (German literary studies), Britta Hochkirchen (Art History), Kirsten Kramer (Romance and Comparative Literary Studies), and Silke Schwandt (Digital History) will address the ‘analoge’ und ‘digital’ approaches juxtaposed at our conference. Are there tensions? Complementarity? How can we sense for joint research on practices of comparing?
+At the panel discussion, four experts from different disciplines will discuss forms and functions of comparing. Based on observations at the conference, special interest will be on the methods used for analysis and on the materiality of comparing. Bringing these observations together, Elisa Ronzheimer (German Literary studies), Britta Hochkirchen (Art History), Kirsten Kramer (Romance and Comparative Literary Studies), and Silke Schwandt (Digital History) will address the ‘analoge’ und ‘digital’ approaches juxtaposed at our conference. Are there tensions? Complementarity? How can we sense for joint research on practices of comparing?
 
 |  |  |  |
 |-----|-------|--------------|
