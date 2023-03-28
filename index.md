@@ -13,6 +13,8 @@ The [Collaborative Research Centre (SFB 1288) - Practices of Comparing](https://
 
 Our keynote speakers will be [Prof. Caroline Bassett](https://www.english.cam.ac.uk/people/Caroline.Bassett/), University of Cambridge, [Prof. Alexander Honold](https://germanistik.philhist.unibas.ch/de/personen/alexander-honold/), University of Basel, [Jun.-Prof. Mareike Schumacher](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/schumacher_ref/index.en.jsp), TU Darmstadt, and [Dr. Matthew Wilkens](https://infosci.cornell.edu/content/wilkens), Cornell University.
 
+Additionally, [a panel discussion on **Comparing, Hermeneutics, and the Data Paradigm**](https://comparing-landscapes.github.io/panel.html) will take place. Dr. Elisa Ronzheimer (German Literary studies), Dr. Britta Hochkirchen (Art History), Prof. Dr. Kirsten Kramer (Romance and Comparative Literary Studies), and Prof. Dr. Silke Schwandt (Digital History) will discuss forms and functions of comparing and address the ‘analoge’ und ‘digital’ approaches juxtaposed at our conference
+
 The conference will be co-located with the **Training School** [*Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with CATMA*](trainingschool.md) on April 22.
 (Please note that participation to the Training School does not depend on your attendance to the the conference, you can attend just one event, or both)
 
