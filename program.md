@@ -11,7 +11,7 @@ nav_order: 2
 | Day            | Time        | What                                                                                                                                                                                                                         |
 |:---------------|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **April 20th** | 08:45       | Registration & coffee                                                                                                                                                                                   |
-|                | 09:15       | Prof. Berenike Herrmann, Dr. Giulia Grisot, Robin-M. Aust: Conference Opening by the organizers
+|                | 09:15       | Berenike Herrmann, Giulia Grisot, Robin-M. Aust: Conference Opening by the organizers
 |                | 09:30       | Maximilian Benz: Greetings from SFB1288 
 |                | 09:45       | **Morning Lecture: Mareike Schumacher \- "Affective space? Narrative space as a multidimensional reference system"**                                                                                                         |
 |                | 10:45       | coffee                                                                                                                                                                                                                       |
