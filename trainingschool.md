@@ -15,7 +15,9 @@ This training school is organised by SFB1288 and supported by the BiLinked commu
 <img align="right" width="175" height="90" src="images/catma.png">
 
 ## *Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with [CATMA](https://catma.de).*
-April 22nd, 2023
+
+
+**April 22nd, 2023, Bielefeld University**
 
 
 ### Instructor: Mareike Schumacher, Ph.D.
@@ -33,10 +35,12 @@ The introduction to GitMA will thus round off this workshop by providing you wit
 Mareike Schumacher coordinates the DFG project [forTEXT](https://fortext.net), in which, in addition to the dissemination of digital routines, resources and tools to the more traditional disciplines, the further development of CATMA plays an essential role. She received her PhD in German literature from the University of Hamburg with a thesis on “Place and Space in the Novel. A contribution to Computational Literary Studies”. Her research focus lies on distant reading methods (including named entity recognition or stylometry), digital humanities theory, and the connection between digital methods and theory-based literary and cultural studies research.
 Check her recent publications [here](https://mareikeschumacher.de/?p=1117).
 
-## Registration
+## Info and Registration
+
+The Training school will be held in presence on the campus of Bielefeld University. Registered Participants will be informed about the location, room number, etc. in due time.
 
 [Registrations](https://forms.gle/9ACRhXbWAvT11dHu7) are open!
-[Click here](https://forms.gle/9ACRhXbWAvT11dHu7) to secure your place.
+**[Click here](https://forms.gle/9ACRhXbWAvT11dHu7) to secure your place.**
 (Please note that participation to the Training School does not depend on your attendance to the the conference, you can attend just one event, or both)
 
 <!-- Please register [here](https://forms.gle/BWNbKk1FRoDEto9H8) if you are interested in taking part to the training school. -->
