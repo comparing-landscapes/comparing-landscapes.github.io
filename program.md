@@ -6,6 +6,8 @@ nav_order: 2
 
 # Program
 
+**The conference will be held in hybrid format, both in person as well as online via Toom. If you wish to participate as an online guest, we kindly ask you to fill out [this registration form](https://forms.gle/GwLU7mYXemisvi7h7). You will receive the link shortly before the start of the conference via email.**
+
 ## Conference
 
 | Day            | Time        | What                                                                                                                                                                                                                         |
