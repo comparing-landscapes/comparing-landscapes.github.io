@@ -18,6 +18,9 @@ Additionally, [a panel discussion on **Comparing, Hermeneutics, and the Data Par
 The conference will be co-located with the **Training School** [*Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with CATMA*](trainingschool.md) on April 22.
 (Please note that participation to the Training School does not depend on your attendance to the the conference, you can attend just one event, or both)
 
+
+**The conference will be held in hybrid format, both in person as well as online via Toom. If you wish to participate as an online guest, we kindly ask you to fill out [this registration form](https://forms.gle/GwLU7mYXemisvi7h7). You will receive the link shortly before the start of the conference via email.**
+
 ## Call for Papers
 
 ### [**Submit your proposal here**](https://forms.gle/3FUn59ime3xMQV5X9)
