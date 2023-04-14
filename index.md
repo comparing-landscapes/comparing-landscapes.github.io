@@ -4,6 +4,15 @@ title: Home
 nav_order: 1
 ---
 
+# 14.04.2023 latest news:
+
+
+The conference will be in **hybrid format**, with the possibility to attend the conference online via Zoom.
+
+If you wish to attend as an online guest, we kindly ask you to fill out [this registration form](https://forms.gle/GwLU7mYXemisvi7h7). You will receive the link shortly before the start of the conference via email.
+
+
+
 #GERMAN VERSION BELOW:
 
 
