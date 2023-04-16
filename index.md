@@ -184,5 +184,5 @@ Die Organisator:innen und Teilnehmer:innen der Konferenz können an ihren Namens
 
 - Besuchen Sie das Github-Repository [hier](https://github.com/comparing-landscapes/comparing-landscapes.github.io)
 - Wenn Sie Fragen haben, schreiben Sie eine E-Mail an [Dr. Giulia Grisot](mailto:giulia.grisot@uni-bielefeld.de)
-- Erfahren Sie mehr über unsere Forschung im Rahmen des [SFB1288-Projekts E06](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/e06/) und des [vom Schweizerischen Nationalfonds geförderten Projekts 'Hochgebirge'](https://mountain-sentiment.github.io)
+- Erfahren Sie mehr über unsere Forschung im Rahmen des [SFB1288-Projekts E06](https://www.uni-bielefeld.de/sfb/sfb1288/projektbereiche/e06/) und des [vom Schweizerischen Nationalfonds geförderten Projekts 'High Mountains'](https://mountain-sentiment.github.io)
 
