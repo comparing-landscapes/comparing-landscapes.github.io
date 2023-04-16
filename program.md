@@ -46,7 +46,7 @@ If you wish to attend as an online guest, we kindly ask you to fill out [this re
 |                | 11:00-11:30 | **Lisu Wang, University of Leicester - Breaking the borders: the spatial intertextuality of the Paris landscape between Elizabeth Gaskell’s ‘French Life’ and Charles Dickens’ A Tale of Two Cities**                        |
 |                | 11:30-12:00 | **Katrin Rohrbacher, McGill University - "Lived Space": A Computational Study of Setting in Fiction**                                                                                                                        |
 |                | 12:00       | Lunch break                                                                                                                                                                                                                  |
-|                | 13:00       | **Discussion Panel: Silke Schwandt, Kirsten Kramer, Elisa Ronzheimer & Britta Hochkirchen: Comparing, Hermeneutics, and the Data Paradigm ([Link](https://comparing-landscapes.github.io/panel.html))**                      |
+|                | 13:00       | **Discussion Panel: Britta Hochkirchen, Kirsten Kramer, Elisa Ronzheimer, Silke Schwandt: Comparing, Hermeneutics, and the Data Paradigm ([Link](https://comparing-landscapes.github.io/panel.html))**                      |
 |                | 15:00-16:00 | **Conclusion and farewell**                                                                                                                                                                                                  
 
 
