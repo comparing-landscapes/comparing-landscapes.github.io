@@ -30,6 +30,10 @@ The conference will be co-located with the **Training School** [*Digital tools f
 
 **The conference will be held in hybrid format, both in person as well as online via Zoom. If you wish to participate as an online guest, we kindly ask you to fill out [this registration form](https://forms.gle/GwLU7mYXemisvi7h7). You will receive the link shortly before the start of the conference via email.**
 
+<img src="/images/Poster.png" width="600">
+
+
+
 ## Call for Papers
 
 ### [**Submit your proposal here**](https://forms.gle/3FUn59ime3xMQV5X9)
