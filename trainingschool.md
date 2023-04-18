@@ -17,7 +17,7 @@ This training school is organised by SFB1288 and supported by the BiLinked commu
 ## *Digital tools for the identification of textual practices of comparing. An introduction to annotation and operationalisation with [CATMA](https://catma.de).*
 
 
-**April 22nd, 2023, Bielefeld University**
+**April 22nd, 2023, Bielefeld University, Room XE1-200**
 
 
 ### Instructor: Mareike Schumacher, Ph.D.
